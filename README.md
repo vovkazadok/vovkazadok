@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vovkazadok
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning front-end dev
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: ig: evreychik.19 (tg: @neonacistochka)
