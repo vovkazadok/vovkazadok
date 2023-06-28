@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vovka
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end dev
+- 🌱 I’m currently learning jsx, but also trying to not to forget in css😅😂
 - 📫 How to reach me: ig: evreychik.19 (tg: @neonacistochka)
